@@ -78,6 +78,6 @@ The full project workflow is contained within the main Jupyter Notebook.
 
 ## 📧 Contact & License
 
-* **Author/Maintainer:** [Your Name]
-* **Contact:** [Your Email Address]
+* **Author/Maintainer:** [Manoj Kumar]
+* **Contact:** [manojkumarroutu@gmail.com]
 * **License:** This project is licensed under the **MIT License**.
